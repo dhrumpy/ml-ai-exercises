@@ -1,2 +1,2 @@
-# ml-ai-exercises
+# ml-ai exercises
 EDA, ML/ DL, Time Series
